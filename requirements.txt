@@ -1,0 +1,10 @@
+streamlit 
+PyPDF2 
+camelot-py 
+fpdf2 
+transformers 
+torch 
+pandas 
+numpy 
+opencv-python 
+ghostscript
